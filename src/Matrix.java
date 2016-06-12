@@ -14,7 +14,7 @@ public class Matrix {
 	private static final double TOLERANCE = 0.0000000055;   //(1e-8+1e-9)/2..... 1e-9 MAYBE BETTER (1e-11 & "1e-6" common)
 	private static final double POLY_TOLERANCE = 0.00001;     //1e-5..... ABSOLUTE BARE MINIMUM (For LaguerreSolver)
 
-	//FUCKING GET RID OF THIS VARIABLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	//GET RID OF THIS (numSwaps) VARIABLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	
 	//add in some "final" modifiers (everywhere)
 
